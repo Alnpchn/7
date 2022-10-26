@@ -18,7 +18,7 @@ int main()
 
 
 
-    printf("Введите цифру:");
+    printf("РІРІРµРґРёС‚Рµ С†РёС„СЂСѓ:");
 
     scanf("%c", &c);
 
@@ -46,7 +46,7 @@ int main()
 
     case '9': printf("9 - nine\n"); break;
 
-    default: printf("Это не цифра\n");
+    default: printf("СЌС‚Рѕ РЅРµ С†РёС„СЂР°\n");
 
     }
 
